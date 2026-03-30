@@ -5,7 +5,7 @@ color 0c
 :menu
 cls
 echo ===============================
-echo        RISXN TWEAKS GUI
+echo       lx tweak gui
 echo ===============================
 echo.
 echo [1] Optimize FPS
